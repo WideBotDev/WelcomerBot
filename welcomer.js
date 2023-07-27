@@ -70,7 +70,6 @@ const LEAVE_CONFIG = {
 
 
 
-
 function getReplaceVariables(member) {
     return {
         "{member-tag}": "<@" + member.id + ">",
